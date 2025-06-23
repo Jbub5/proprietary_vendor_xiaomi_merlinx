@@ -12,7 +12,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/LDC_packdata_xiaomi_J15_Sunny_3264x2448_v2_20200305.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J15_Sunny_3264x2448_v2_20200305.dat \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/charon:$(TARGET_COPY_OUT_VENDOR)/bin/charon \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/displayf_bin:$(TARGET_COPY_OUT_VENDOR)/bin/displayf_bin \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/factory:$(TARGET_COPY_OUT_VENDOR)/bin/factory \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/factory_bin:$(TARGET_COPY_OUT_VENDOR)/bin/factory_bin \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/fuelgauged_nvram:$(TARGET_COPY_OUT_VENDOR)/bin/fuelgauged_nvram \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/hw/android.hardware.secure_element@1.2-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.secure_element@1.2-service-mediatek \
@@ -20,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/initprop_bin:$(TARGET_COPY_OUT_VENDOR)/bin/initprop_bin \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/libccu_ov13b10_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_mipi_raw.dm \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/libccu_ov13b10_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_mipi_raw.pm \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/meta_tst:$(TARGET_COPY_OUT_VENDOR)/bin/meta_tst \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/mnld:$(TARGET_COPY_OUT_VENDOR)/bin/mnld \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/nusensors:$(TARGET_COPY_OUT_VENDOR)/bin/nusensors \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
