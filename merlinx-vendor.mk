@@ -10,20 +10,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/CFR_para2_J15_UW_v504.bin:$(TARGET_COPY_OUT_VENDOR)/bin/CFR_para2_J15_UW_v504.bin \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/LDC_packdata_xiaomi_J15_Ofilm_3264x2448_v2_20200305.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J15_Ofilm_3264x2448_v2_20200305.dat \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/LDC_packdata_xiaomi_J15_Sunny_3264x2448_v2_20200305.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J15_Sunny_3264x2448_v2_20200305.dat \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/charon:$(TARGET_COPY_OUT_VENDOR)/bin/charon \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/displayf_bin:$(TARGET_COPY_OUT_VENDOR)/bin/displayf_bin \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/factory_bin:$(TARGET_COPY_OUT_VENDOR)/bin/factory_bin \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/fuelgauged_nvram:$(TARGET_COPY_OUT_VENDOR)/bin/fuelgauged_nvram \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/hw/android.hardware.secure_element@1.2-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.secure_element@1.2-service-mediatek \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/hw/camerahalserver:$(TARGET_COPY_OUT_VENDOR)/bin/hw/camerahalserver \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/initprop_bin:$(TARGET_COPY_OUT_VENDOR)/bin/initprop_bin \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/libccu_ov13b10_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_mipi_raw.dm \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/libccu_ov13b10_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_mipi_raw.pm \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/mnld:$(TARGET_COPY_OUT_VENDOR)/bin/mnld \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/nusensors:$(TARGET_COPY_OUT_VENDOR)/bin/nusensors \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/starter:$(TARGET_COPY_OUT_VENDOR)/bin/starter \
-    vendor/xiaomi/merlinx/proprietary/vendor/bin/stroke:$(TARGET_COPY_OUT_VENDOR)/bin/stroke \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/teei_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/teei_daemon \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/volte_imcb:$(TARGET_COPY_OUT_VENDOR)/bin/volte_imcb \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/volte_ua:$(TARGET_COPY_OUT_VENDOR)/bin/volte_ua \
@@ -186,7 +180,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/libcameracustom.plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.plugin.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/libcameracustom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/libcarrierconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcarrierconfig.so \
-    vendor/xiaomi/merlinx/proprietary/vendor/lib64/libcharon-ss.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcharon-ss.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/libcustom_nvram.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcustom_nvram.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/libfeature.stereo.provider.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature.stereo.provider.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/libfeature.vsdof.hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature.vsdof.hal.so \
